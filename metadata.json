@@ -1,0 +1,6 @@
+{
+  "name": "MailScope — Office 365 Email Activity Analyzer",
+  "description": "Email Analytics, Delivery Insights & Security Monitoring for Microsoft 365 and Exchange message tracking reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
